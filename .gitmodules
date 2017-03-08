@@ -1,0 +1,3 @@
+[submodule "Wikithonus"]
+	path = Wikithonus
+	url = "git@github.com:zygimantus/Wikithonus.git"
